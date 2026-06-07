@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "User",
+    "title": "Name",
+    "value": "Seema Verma"
+  },
+  {
+    "id": 2,
+    "icon": "Mail",
+    "title": "Email",
+    "value": "seemaverma210497@gmail.com"
+  },
+  {
+    "id": 3,
+    "icon": "MapPin",
+    "title": "Location",
+    "value": "New Delhi, India"
+  },
+  {
+    "id": 4,
+    "icon": "Briefcase",
+    "title": "Experience",
+    "value": "4 Years"
+  }
+]

@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "title": "LMS Dashboard",
+    "description": "A responsive Learning Management System built using React.js and modern frontend technologies. Includes student and course management system, authentication (Login/Signup), CRUD operations, API integration using Axios, search, filter, pagination, and responsive UI with reusable components.",
+    "image": "../src/assets/portfolioImg/LMS-LOGIN.png",
+    "tech": [
+      "React JS",
+      "Tailwind CSS",
+      "JavaScript",
+      "React Router DOM",
+      "Context API",
+      "React Hooks",
+      "REST APIs",
+      "Axios"
+    ],
+    "live": "https://your-live-link.com",
+    "github": "https://github.com/your-repo"
+  },
+  {
+    "id": 2,
+    "title": "Notes App",
+    "description": "A notes management application built using React.js and Context API. It includes create, update, delete notes functionality, priority-based organization, search feature, and fully responsive UI.",
+    "image": "../src/assets/portfolioImg/Note-App.png",
+    "tech": [
+      "React JS",
+      "Tailwind CSS",
+      "JavaScript (ES6+)",
+      "React Router DOM",
+      "Context API",
+      "React Hooks"
+    ],
+    "live": "https://note-app-orcin-five.vercel.app/",
+    "github": "https://github.com/SeemaVerma621/note-app"
+  },
+  {
+    "id": 3,
+    "title": "Digital Responsive Website",
+    "description": "A responsive personal portfolio website built using React.js and Tailwind CSS with modern UI design and reusable components.",
+    
+    "image": "../src/assets/portfolioImg/React-responsive-website.png",
+    "tech": [
+      "React JS",
+      "Tailwind CSS",
+      "JavaScript"
+    ],
+    "live": "https://digital-agency-lovat-one.vercel.app/",
+    "github": "https://github.com/SeemaVerma621/digital-agency"
+  },
+  {
+    "id": 4,
+    "title": "Education Portal - WordPress",
+    "description": "A live education portal built using WordPress with SEO optimization and automation features including 100+ subdomain management, WPForms integration, Yoast SEO, CRM integration, and WhatsApp automation.",
+    "image": "../src/assets/portfolioImg/DES-Website.png",
+    "tech": [
+      "WordPress",
+      "CSS3",
+      "JavaScript",
+      "WPForms",
+      "Yoast SEO",
+      "Ajax Search Pro",
+      "Pabbly Connect",
+      "Google Sheets"
+    ],
+    "live": "https://distanceeducationschool.com/",
+    "github": "https://github.com/your-repo"
+  },
+  {
+    "id": 5,
+    "title": "Google Ads Landing Pages",
+    "description": "High-conversion landing pages built using HTML, CSS, JavaScript, and Bootstrap. Focused on mobile-first design, fast loading performance, lead capture forms, CRM integration, and WhatsApp automation.",
+    "image": "../src/assets/portfolioImg/LandingPages.png",
+    "tech": [
+      "HTML5",
+      "CSS3",
+      "JavaScript",
+      "Bootstrap",
+      "Google Sheets"
+    ],
+    "live": "https://cu.distanceeducationschool.in/",
+    "github": "https://github.com/SeemaVerma621/education-google-ads-landing-pages"
+  }
+]

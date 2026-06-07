@@ -1,0 +1,36 @@
+[
+    {
+        "id" : 1,
+        "image": "../src/assets/SkillsIMG/HTML_IMG.jpg",
+        "skill" : "HTML"
+    },
+    {"id" : 2,
+        "image": "../src/assets/SkillsIMG/CSS_IMG.png",
+        "skill" : "CSS"
+    },
+    {
+        "id" : 3,
+        "image": "../src/assets/SkillsIMG/JS_IMG.jpg",
+        "skill" : "Javascript"
+    },
+    {
+        "id" : 4,
+        "image": "../src/assets/SkillsIMG/REACT_IMG.jpg",
+        "skill" : "React"
+    },
+    {
+        "id" : 5,
+        "image": "../src/assets/SkillsIMG/Tailwind_IMG.png",
+        "skill" : "Tailwind CSS"
+    },
+    {
+        "id" : 6,
+        "image": "../src/assets/SkillsIMG/Wordpress_IMG.png",
+        "skill" : "Wordpress"
+    },
+    {
+        "id" : 7,
+        "image": "../src/assets/SkillsIMG/Bootstrap.png",
+        "skill" : "Bootstrap"
+    }
+]

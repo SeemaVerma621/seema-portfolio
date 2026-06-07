@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "date": "Sep 2021 - Jan 2025",
+    "role": "Web Developer",
+    "company": "SODE Counselling Services LLP",
+    "info": [
+      "Developed and maintained responsive websites, education portals, and 30+ high-converting landing pages using HTML5, CSS3, JavaScript, and WordPress.",
+      "Converted PSD and Figma designs into pixel-perfect, mobile-friendly websites while ensuring cross-browser compatibility and responsive layouts.",
+      "Customized WordPress themes and integrated plugins including WPForms and Ajax Search Pro.",
+      "Implemented SEO best practices and improved website performance through PageSpeed optimization and WP Rocket caching.",
+      "Managed and maintained 100+ subdomains for education portals and lead generation campaigns.",
+      "Handled content updates, lead generation forms, and delivered optimized user experiences across desktop, tablet, and mobile devices."
+    ],
+    "duration": "3.6 Years"
+  },
+  {
+    "id": 2,
+    "date": "Jul 2025 - Dec 2025",
+    "role": "Frontend Developer",
+    "company": "SODE Counselling Services LLP",
+    "info": [
+      "Built responsive and interactive web applications using React.js, Tailwind CSS, JavaScript, React Router DOM, Context API, and REST APIs.",
+      "Developed reusable UI components and implemented state management for scalable frontend applications.",
+      "Integrated REST APIs using Axios and handled data fetching, loading states, and error handling.",
+      "Worked on a Learning Management System (LMS) Dashboard for managing students, courses, enrollments, and user progress.",
+      "Developed responsive multi-page websites and a Notes App using modern React architecture.",
+      "Implemented protected routing, form validation, and mobile-first design principles while ensuring cross-browser compatibility."
+    ],
+    "duration": "6 Months"
+  }
+]
