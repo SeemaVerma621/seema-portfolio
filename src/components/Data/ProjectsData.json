@@ -3,7 +3,7 @@
     "id": 1,
     "title": "LMS Dashboard",
     "description": "A responsive Learning Management System built using React.js and modern frontend technologies. Includes student and course management system, authentication (Login/Signup), CRUD operations, API integration using Axios, search, filter, pagination, and responsive UI with reusable components.",
-    "image": "../src/assets/portfolioImg/LMS-LOGIN.png",
+    "image": "LMS-LOGIN.png",
     "tech": [
       "React JS",
       "Tailwind CSS",
@@ -21,7 +21,7 @@
     "id": 2,
     "title": "Notes App",
     "description": "A notes management application built using React.js and Context API. It includes create, update, delete notes functionality, priority-based organization, search feature, and fully responsive UI.",
-    "image": "../src/assets/portfolioImg/Note-App.png",
+    "image": "Note-App.png",
     "tech": [
       "React JS",
       "Tailwind CSS",
@@ -38,7 +38,7 @@
     "title": "Digital Responsive Website",
     "description": "A responsive personal portfolio website built using React.js and Tailwind CSS with modern UI design and reusable components.",
     
-    "image": "../src/assets/portfolioImg/React-responsive-website.png",
+    "image": "React-responsive-website.png",
     "tech": [
       "React JS",
       "Tailwind CSS",
@@ -51,7 +51,7 @@
     "id": 4,
     "title": "Education Portal - WordPress",
     "description": "A live education portal built using WordPress with SEO optimization and automation features including 100+ subdomain management, WPForms integration, Yoast SEO, CRM integration, and WhatsApp automation.",
-    "image": "../src/assets/portfolioImg/DES-Website.png",
+    "image": "DES-Website.png",
     "tech": [
       "WordPress",
       "CSS3",
@@ -69,7 +69,7 @@
     "id": 5,
     "title": "Google Ads Landing Pages",
     "description": "High-conversion landing pages built using HTML, CSS, JavaScript, and Bootstrap. Focused on mobile-first design, fast loading performance, lead capture forms, CRM integration, and WhatsApp automation.",
-    "image": "../src/assets/portfolioImg/LandingPages.png",
+    "image": "LandingPages.png",
     "tech": [
       "HTML5",
       "CSS3",
