@@ -14,13 +14,14 @@
       "REST APIs",
       "Axios"
     ],
-    "live": "https://your-live-link.com",
-    "github": "https://github.com/your-repo"
+   "live": "/under-development",
+"github": "/under-development",
+"status": "development"
   },
   {
     "id": 2,
     "title": "Notes App",
-    "description": "A notes management application built using React.js and Context API. It includes create, update, delete notes functionality, priority-based organization, search feature, and fully responsive UI.",
+    "description": "A modern React.js Notes Management Application built with Context API for efficient state management. It allows users to create, update, delete, and organize notes based on priority levels for better productivity. The app also includes real-time search functionality for quick filtering and a fully responsive UI for seamless experience across all devices.",
     "image": "Note-App.png",
     "tech": [
       "React JS",
@@ -36,7 +37,7 @@
   {
     "id": 3,
     "title": "Digital Responsive Website",
-    "description": "A responsive personal portfolio website built using React.js and Tailwind CSS with modern UI design and reusable components.",
+    "description": "A responsive personal portfolio website built using React.js and Tailwind CSS, featuring a modern UI design and reusable components. The website includes a theme toggle (light/dark mode) for better user experience and a functional contact form with form submission handling. It is fully responsive, ensuring smooth performance across all devices and screen sizes.",
     
     "image": "React-responsive-website.png",
     "tech": [
@@ -63,7 +64,7 @@
       "Google Sheets"
     ],
     "live": "https://distanceeducationschool.com/",
-    "github": "https://github.com/your-repo"
+    "github": "#"
   },
   {
     "id": 5,
