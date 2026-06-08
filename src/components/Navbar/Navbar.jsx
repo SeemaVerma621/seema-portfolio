@@ -35,7 +35,7 @@ const Navbar = () => {
 
             <li>
               <a
-                href="/Seema_Frontend_Developer.pdf"
+                href="/Seema_Frontend_Developer_Updated.pdf"
                 download
                 className="bg-primary py-2 px-5 rounded text-white flex items-center gap-2"
               >
@@ -64,7 +64,7 @@ const Navbar = () => {
               <span className="text-dark-blue dark:text-white">Verma</span>
             </h2>
 
-            {/* Right Side */}
+  
             <div className="flex items-center gap-2">
               <button
                 onClick={themeHandler}
@@ -74,7 +74,7 @@ const Navbar = () => {
               </button>
 
               <a
-                href="/Seema_Frontend_Developer.pdf"
+                href="/Seema_Frontend_Developer_Updated.pdf"
                 download
                 className="bg-primary text-white p-2 rounded-lg"
               >
