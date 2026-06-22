@@ -20,7 +20,7 @@ const Navbar = () => {
     <>
       <div className="px-5 md:px-20 py-5 fixed w-full top-0 bg-white text-dark-blue dark:bg-gray-900 dark:text-white shadow-md z-50">
         <nav className="flex justify-between items-center">
-          <h2 className="hidden text-xl font-bold text-primary-dark md:block">
+          <h2 className="hidden text-xl font-bold text-primary-dark md:block md:text-xl" id="logo-Name">
             Seema <span className="text-dark-blue dark:text-white">Verma</span>
           </h2>
 

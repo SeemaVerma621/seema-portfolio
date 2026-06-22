@@ -7,6 +7,7 @@ import Projects from "../Projects/Projects";
 import { useTheme } from "../../Context/ThemeContext";
 import Experience from "../Experience/Experience";
 import { ToastContainer } from "react-toastify";
+import Test from "../Test";
 const Home = () => {
   const {theme, setTheme} = useTheme()
   return (
@@ -18,6 +19,7 @@ const Home = () => {
     <Experience/>
     <Footer/>
     <ToastContainer/>
+
    </div>
   );
 };

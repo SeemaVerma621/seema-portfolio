@@ -38,14 +38,14 @@ const Hero = () => {
           <div className="flex gap-4 mt-4">
             <a
               href="#projects"
-              className="bg-primary px-6 py-3 rounded-lg text-white font-medium hover:opacity-90 transition"
+              className="bg-primary px-5 py-3 rounded-lg text-white font-medium hover:opacity-90 transition"
             >
               View My Work
             </a>
 
             <a
               href="#contact"
-              className="border border-primary text-primary px-6 py-3 rounded-lg font-medium hover:bg-primary hover:text-white transition"
+              className="border border-primary text-primary px-5 py-3 rounded-lg font-medium hover:bg-primary hover:text-white transition"
             >
               Contact Me
             </a>
@@ -58,11 +58,15 @@ const Hero = () => {
           transition={{ duration: 0.7 }}
           className="w-full md:w-1/2 flex justify-center"
         >
-          <img
-            src="/Seema_IMG.png"
-            alt="Seema Verma"
-            className="w-100 rounded-2xl"
-          />
+         <img
+  src="/Seema_IMG.webp"
+  alt="Seema Verma"
+  width="500"
+  height="500"
+  loading="eager"
+  decoding="async"
+  className="w-full max-w-[500px] rounded-2xl"
+/>
         </motion.div>
 
       </div>

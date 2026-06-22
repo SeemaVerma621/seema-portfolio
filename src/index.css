@@ -13,7 +13,7 @@ section {
   scroll-margin-top: 100px;
 }
 h2{
-  font-size: 30px; font-weight: bold;
+  font-size: 26px; font-weight: bold;
 }
 h2::after{
   border-bottom: 3px darkblue;
